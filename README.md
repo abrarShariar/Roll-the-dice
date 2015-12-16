@@ -23,3 +23,5 @@ A Game of dice. Either you win cash or you go bankrupt. Written in C programming
 -Your cash is doubled if you hit the Bull's Eye  !!
 
 *Best of luck*
+
+**Compile and run the file final.c**
